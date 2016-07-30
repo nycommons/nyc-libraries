@@ -31,6 +31,3 @@ These libraries were found on the websites of the library systems but are not in
   * Central Library-Children's Library Discovery Center
   * Central Library-The Archives
   * Job Information Center
-
-# Elmhurst is in a temporary location, should be at  Block: 1837 Lot: 1 
-# Kew Gardens Hills is in a temporary location, should be at   Block: 6661 Lot: 5 
